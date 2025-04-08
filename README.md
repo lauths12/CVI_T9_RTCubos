@@ -23,9 +23,11 @@ El código original fue escrito en 2016 por **Peter Shirley** (<ptrshrl@gmail.co
 
 ## 📂 Código Fuente
 
-Todo el código del proyecto se encuentra en: src/InOneWeekend
+Todo el código del proyecto se encuentra en: 
 
-
+```bash
+src/InOneWeekend
+```
 ---
 
 ## ⚡ Cómo construir y correr el programa
