@@ -3,7 +3,7 @@ Ray Tracing para varios Cubos
 
 | In One Weekend (0°) | In One Weekend (45°) |
 |:---------------------------------:|:---------------------------------:|
-| [In One Weekend](link-libro1) | [In One Weekend](link-libro2) |
+| [In One Weekend](link-libro1) | ![image (8)](https://github.com/user-attachments/assets/42692eaf-ce5c-47ac-ac92-71f1deadf068) |
 
 
 ## 🎨 Créditos
