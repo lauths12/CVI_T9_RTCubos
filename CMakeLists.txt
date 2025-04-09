@@ -20,6 +20,7 @@ set ( EXTERNAL
 )
 
 set ( SOURCE_ONE_WEEKEND
+  src/InOneWeekend/aabb.h
   src/InOneWeekend/main.cc
   src/InOneWeekend/camera.h
   src/InOneWeekend/color.h
@@ -27,9 +28,9 @@ set ( SOURCE_ONE_WEEKEND
   src/InOneWeekend/hittable_list.h
   src/InOneWeekend/interval.h
   src/InOneWeekend/material.h
+  src/InOneWeekend/quad.h
   src/InOneWeekend/ray.h
   src/InOneWeekend/rtweekend.h
-  src/InOneWeekend/sphere.h
   src/InOneWeekend/vec3.h
 )
 
