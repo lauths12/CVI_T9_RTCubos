@@ -1,9 +1,10 @@
 Ray Tracing para varios Cubos
 ====================================================================================================
 
-| ![RT in One Weekend][cover1] | ![RT The Next Week][cover2] | ![RT The Rest of Your Life][cover3] |
-|:----------------------------:|:---------------------------:|:-----------------------------------:|
-|   [In One Weekend][book1]    |   [The Next Week][book2]    |   [The Rest of Your Life][book3]    |
+| In One Weekend (0°) | In One Weekend (45°) |
+|:---------------------------------:|:---------------------------------:|
+| ![image (11)](https://github.com/user-attachments/assets/09e258f6-4e34-4467-9961-5fa504e6a1ba) | ![image (8)](https://github.com/user-attachments/assets/42692eaf-ce5c-47ac-ac92-71f1deadf068) |
+
 
 ## 🎨 Créditos
 
@@ -22,9 +23,11 @@ El código original fue escrito en 2016 por **Peter Shirley** (<ptrshrl@gmail.co
 
 ## 📂 Código Fuente
 
-Todo el código del proyecto se encuentra en: src/InOneWeekend
+Todo el código del proyecto se encuentra en: 
 
-
+```bash
+src/InOneWeekend
+```
 ---
 
 ## ⚡ Cómo construir y correr el programa
